@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "sketch": "bt-servo.ino",
+    "port": "/dev/ttyACM0"
+}
